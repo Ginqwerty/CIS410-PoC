@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{AB181FF5-A7CD-C29B-D19A-DBDD63737460}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/PlayerMovement.cs">
+    <Files>
+      <File FileName="Assets/Script/PlayerCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/PlayerMovement.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
